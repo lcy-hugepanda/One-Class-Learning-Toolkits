@@ -1,4 +1,4 @@
-OneClassLearningToolbox
+﻿OneClassLearningToolbox
 =======================
 
 Toolbox for one-class machine learning, one-class classification, outlier detection and anomly detection
